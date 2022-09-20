@@ -6,7 +6,7 @@ Movie World is a movie fetching website for searching any movie or series which 
 
 ## Appendix
 
-Made using OMDB api and React JS framework.
+Made using OMDB api and React JS Library.
 
 ## Features
 
